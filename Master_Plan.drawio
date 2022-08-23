@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T07:11:20.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="PswZgMJttQ5S8rKJZiSQ" version="20.0.4" type="github"><diagram id="iZwKybQXEUs16lGEYncc" name="Page-1">xVbbcpswEP0aHuuxIcb4MXbstjNJph338piRxRqUCJYRwpd8fVdC2GCcpJlJpzyAdHYlrc7ZlfCCebb/rFiR3mEM0vOH8d4LbjzfD0bhkD4GOdTIKPQdkigR11gLWIlncI4NWokYSofVkEaUWhRdkGOeA9cdjCmFu67bBmXcAQqWQA9YcSb76G8R67SJjp6T5QuIJNU905rxp0RhlbslPT9Y0jOf1+aMNdM5/zJlMe5a6wYLL5grRF23sv0cpOG3y9zyBesxdAW5/psBP4NH35/w/f332Sx6TlT0iy8/+Vf1NFsmK2j2YaPVh4YkCrwwzWyfmDQYcFFyHBSAhYRBqVkeizx5yFjuBbNUZ5JcR9QsUOQa1GJL8ZUOi1mZgolnSJ2NkHKOEpVdJhgGYTSdEF5qhU/Qsmzsc7Q0ShGDsy0oLUjPW7YG+Q1LoQVSHDdr1BqzlsO1FIkxaCwIZa7HwYRIAFZaipwWbfLMBOiooRlg/yLpJympTAAz0OpALm7A1Wg0rce4EhlHDeW7U8JN3LxpO9MmbiBzOZ4cJz+JTA2n83s0n7ytOcRUJ66LSqeYYM7k4oTObOYftTz53KJh2Kr9CFofXNGzSmM3P+o1zUKvc0txYaU4vLajsTs7mEpAv+YYXlZLgWRabLuRfDzx4x7xP1JRmmHmlQG97kw498y2LXpdkkvq+aGkjc3WilqJPtLXkmyXCg2rglmmdlSpXbrPq3jNSsEHXGIVP1B90Ff3azJmEG34pZoMeQTrzUcVSRR2i2TSUNUqktF4eKFKhv6/Eivsi4UxM2F/NVcecGHS31xYVgemtNHQ2B8pX3Mwrb5sdDr5wzmaI9Pal/Re4UbviC077RYkFnQmWUt/fHGgQstr66ay26C1+VN37Hk1S0k3KrSywOpO/TeS5v+kQxCdnZlh2E8HP5xeSIdp8O50oO7pEra21t9OsPgD</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-23T16:03:11.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="PBaUd52QDwd0uC6ZTKSO" version="20.2.6" type="github">
+  <diagram id="iZwKybQXEUs16lGEYncc" name="Page-1">
+    <mxGraphModel dx="1422" dy="705" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" background="#FFFFCC" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U3j227cxNQBB8zgr8VcF-24" value="" style="shape=mxgraph.cisco.people.standing_man;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="4119" y="5824" width="71" height="179" as="geometry" />
+        </mxCell>
+        <mxCell id="U3j227cxNQBB8zgr8VcF-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U3j227cxNQBB8zgr8VcF-25" target="U3j227cxNQBB8zgr8VcF-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U3j227cxNQBB8zgr8VcF-25" value="This is me My Name is Ashish&lt;br&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="4186" y="5725" width="150" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="U3j227cxNQBB8zgr8VcF-26" value="Today I decided to start my journey &lt;br&gt;on Coding / Software developer/ &lt;br&gt;python/ full stack developer" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="4389" y="5665" width="269" height="193" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

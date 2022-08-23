@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T16:03:11.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="PBaUd52QDwd0uC6ZTKSO" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-23T16:05:14.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="L95m4IiN-XZrk3QXd2Nm" version="20.2.6" type="github">
   <diagram id="iZwKybQXEUs16lGEYncc" name="Page-1">
     <mxGraphModel dx="1422" dy="705" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" background="#FFFFCC" math="0" shadow="1">
       <root>
@@ -7,14 +7,8 @@
         <mxCell id="U3j227cxNQBB8zgr8VcF-24" value="" style="shape=mxgraph.cisco.people.standing_man;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="4119" y="5824" width="71" height="179" as="geometry" />
         </mxCell>
-        <mxCell id="U3j227cxNQBB8zgr8VcF-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U3j227cxNQBB8zgr8VcF-25" target="U3j227cxNQBB8zgr8VcF-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="U3j227cxNQBB8zgr8VcF-25" value="This is me My Name is Ashish&lt;br&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="4186" y="5725" width="150" height="102" as="geometry" />
-        </mxCell>
-        <mxCell id="U3j227cxNQBB8zgr8VcF-26" value="Today I decided to start my journey &lt;br&gt;on Coding / Software developer/ &lt;br&gt;python/ full stack developer" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="4389" y="5665" width="269" height="193" as="geometry" />
+        <mxCell id="U3j227cxNQBB8zgr8VcF-25" value="&lt;font face=&quot;Lucida Console&quot;&gt;18 July 2022&lt;br&gt;Today I decided to start my journey&lt;br&gt;on Coding / Software developer/&lt;br&gt;python/ full stack developer&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="4186" y="5655" width="310" height="172" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
